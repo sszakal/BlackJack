@@ -1,7 +1,0 @@
-C:\Users\stefansz\source\repos\BlackJack\BlackJack.Models\bin\Debug\netcoreapp3.1\BlackJack.Models.deps.json
-C:\Users\stefansz\source\repos\BlackJack\BlackJack.Models\bin\Debug\netcoreapp3.1\BlackJack.Models.dll
-C:\Users\stefansz\source\repos\BlackJack\BlackJack.Models\bin\Debug\netcoreapp3.1\BlackJack.Models.pdb
-C:\Users\stefansz\source\repos\BlackJack\BlackJack.Models\obj\Debug\netcoreapp3.1\BlackJack.Models.AssemblyInfoInputs.cache
-C:\Users\stefansz\source\repos\BlackJack\BlackJack.Models\obj\Debug\netcoreapp3.1\BlackJack.Models.AssemblyInfo.cs
-C:\Users\stefansz\source\repos\BlackJack\BlackJack.Models\obj\Debug\netcoreapp3.1\BlackJack.Models.dll
-C:\Users\stefansz\source\repos\BlackJack\BlackJack.Models\obj\Debug\netcoreapp3.1\BlackJack.Models.pdb

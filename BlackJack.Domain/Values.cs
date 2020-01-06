@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BlackJack.Domain
+﻿namespace BlackJack.Domain
 {
     public enum Values
     {

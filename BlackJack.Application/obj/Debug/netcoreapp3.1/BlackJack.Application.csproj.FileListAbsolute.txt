@@ -1,0 +1,11 @@
+C:\Users\stefansz\source\repos\BlackJack\BlackJack.Application\bin\Debug\netcoreapp3.1\BlackJack.Application.deps.json
+C:\Users\stefansz\source\repos\BlackJack\BlackJack.Application\bin\Debug\netcoreapp3.1\BlackJack.Application.dll
+C:\Users\stefansz\source\repos\BlackJack\BlackJack.Application\bin\Debug\netcoreapp3.1\BlackJack.Application.pdb
+C:\Users\stefansz\source\repos\BlackJack\BlackJack.Application\bin\Debug\netcoreapp3.1\BlackJack.Domain.dll
+C:\Users\stefansz\source\repos\BlackJack\BlackJack.Application\bin\Debug\netcoreapp3.1\BlackJack.Domain.pdb
+C:\Users\stefansz\source\repos\BlackJack\BlackJack.Application\obj\Debug\netcoreapp3.1\BlackJack.Application.csprojAssemblyReference.cache
+C:\Users\stefansz\source\repos\BlackJack\BlackJack.Application\obj\Debug\netcoreapp3.1\BlackJack.Application.AssemblyInfoInputs.cache
+C:\Users\stefansz\source\repos\BlackJack\BlackJack.Application\obj\Debug\netcoreapp3.1\BlackJack.Application.AssemblyInfo.cs
+C:\Users\stefansz\source\repos\BlackJack\BlackJack.Application\obj\Debug\netcoreapp3.1\BlackJack.Application.csproj.CopyComplete
+C:\Users\stefansz\source\repos\BlackJack\BlackJack.Application\obj\Debug\netcoreapp3.1\BlackJack.Application.dll
+C:\Users\stefansz\source\repos\BlackJack\BlackJack.Application\obj\Debug\netcoreapp3.1\BlackJack.Application.pdb

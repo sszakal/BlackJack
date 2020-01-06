@@ -1,0 +1,256 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.WebApi\\BlackJack.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Application\\BlackJack.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Application\\BlackJack.Application.csproj",
+        "projectName": "BlackJack.Application",
+        "projectPath": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Application\\BlackJack.Application.csproj",
+        "packagesPath": "C:\\Users\\stefansz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\stefansz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Domain\\BlackJack.Domain.csproj": {
+                "projectPath": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Domain\\BlackJack.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Domain\\BlackJack.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Domain\\BlackJack.Domain.csproj",
+        "projectName": "BlackJack.Domain",
+        "projectPath": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Domain\\BlackJack.Domain.csproj",
+        "packagesPath": "C:\\Users\\stefansz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\stefansz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Models\\BlackJack.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Models\\BlackJack.Models.csproj",
+        "projectName": "BlackJack.Models",
+        "projectPath": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Models\\BlackJack.Models.csproj",
+        "packagesPath": "C:\\Users\\stefansz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\stefansz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.WebApi\\BlackJack.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.WebApi\\BlackJack.WebApi.csproj",
+        "projectName": "BlackJack.WebApi",
+        "projectPath": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.WebApi\\BlackJack.WebApi.csproj",
+        "packagesPath": "C:\\Users\\stefansz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\stefansz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Application\\BlackJack.Application.csproj": {
+                "projectPath": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Application\\BlackJack.Application.csproj"
+              },
+              "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Models\\BlackJack.Models.csproj": {
+                "projectPath": "C:\\Users\\stefansz\\source\\repos\\V2\\BlackJack\\BlackJack.Models\\BlackJack.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

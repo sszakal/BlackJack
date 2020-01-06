@@ -6,7 +6,7 @@ namespace BlackJack.Domain
 {
     public class BlackJackHandEvaluator: IHandEvaluator
     {
-        private static readonly Dictionary<Values, int> _mapper = new Dictionary<Values, int>
+        private static readonly Dictionary<Values, int> Mapper = new Dictionary<Values, int>
         {
             [Values.Two] = 2,
             [Values.Three] = 3,
@@ -27,7 +27,7 @@ namespace BlackJack.Domain
         {
             var total = cards
                 .Where(c => c.Value != Values.Ace)
-                .Select(c => _mapper[c.Value]).Sum();
+                .Select(c => Mapper[c.Value]).Sum();
 
             var aces = cards.Where(c => c.Value == Values.Ace).ToArray();
 

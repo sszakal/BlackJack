@@ -35,7 +35,7 @@ namespace BlackJack.WebApi.Controllers
             return game != null ? ToModel(game) : null;
         }
 
-        [HttpPost]
+        [HttpPost("/games")]
         public BlackJackGameModel CreateGame([FromBody]CreateGameModel createGameModel)
         {
             var newGameId = _gameService.CreateGame(createGameModel.PlayerName);
@@ -69,11 +69,13 @@ namespace BlackJack.WebApi.Controllers
 
         private BlackJackGameModel ToModel(BlackJackGame game)
         {
-            var result = new BlackJackGameModel();
-            result.Id = game.Id;
-            result.Dealer = ToModel(game.Dealer);
-            result.Player = ToModel(game.Player);
-            result.Winner = game.GetWinnerName();
+            var result = new BlackJackGameModel
+            {
+                Id = game.Id,
+                Dealer = ToModel(game.Dealer),
+                Player = ToModel(game.Player),
+                Winner = game.GetWinnerName()
+            };
             return result;
         }
 
